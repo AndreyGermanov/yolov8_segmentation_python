@@ -1,0 +1,5 @@
+onnxruntime
+Pillow
+flask
+waitress
+opencv-python
