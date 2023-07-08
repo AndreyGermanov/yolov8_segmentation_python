@@ -5,6 +5,8 @@ implemented on [Python](https://www.python.org) via [ONNX Runtime](https://onnxr
 
 This is a source code for a ["How to implement instance segmentation using YOLOv8 neural network"](https://dev.to/andreygermanov/how-to-implement-instance-segmentation-using-yolov8-neural-network-3if9) tutorial.
 
+Watch demo: https://youtu.be/tv3mYPxj2n8
+
 In addition, it includes all Jupyter Notebooks created in this article.
 
 ## Install
