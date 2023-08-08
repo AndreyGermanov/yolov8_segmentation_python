@@ -3,3 +3,4 @@ Pillow
 flask
 waitress
 opencv-python
+numpy
